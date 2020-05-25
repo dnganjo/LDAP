@@ -1,4 +1,4 @@
-# LDAP server config
+# LDAP server configo
 ---
 
 - name: configure ldap server
